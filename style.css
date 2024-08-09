@@ -1,0 +1,114 @@
+
+
+body{
+  display: block;
+  margin: 8px;
+}
+
+div{
+  background-color: rgb(206, 217, 213);
+}
+
+.head1{
+  font-size: xx-large;
+  margin-left: 300px;
+}
+
+.head2{
+  font-size: xx-large;
+  margin-left: 375px;
+  margin-top: -64px;
+  color: blueviolet
+}
+
+img{
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  margin-left: 730px;
+  margin-bottom: -60px;
+  margin-top: 10px;
+  z-index: 3;
+}
+
+.hg{
+  margin-left: 800px;
+  margin-bottom: -40px;
+  position: absolute;
+  z-index: 2;
+  text-shadow: 4px 3px 2px grey;
+}
+
+.box{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  height: 500px;
+  width: 750px;
+  margin-left: 200px;
+  position: relative;
+  background-color: white;
+  z-index: 1;
+  padding: 5%;
+  column-gap: 15px;
+}
+
+.box1{
+  width: 250px;
+  height: 250px;
+  border: 2px solid black;
+  border-radius: 8px;
+}
+
+.h1{
+  color: blueviolet;
+}
+
+.line{
+  text-decoration-line: line-through;
+}
+
+.box2{
+  width: 250px;
+  height: 250px;
+  border: 2px solid black;
+  border-radius: 8px;
+}
+
+.h2{
+  color: blueviolet;
+}
+
+.box3{
+  width: 250px;
+  height: 250px;
+  border: 2px solid black;
+  border-radius: 8px;
+}
+
+.h3{
+  color: blueviolet;
+}
+
+.box4{
+  width: 250px;
+  height: 250px;
+  border: 2px solid black;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+
+.h4{
+  color: blueviolet;
+}
+
+.box5{
+  width: 250px;
+  height: 250px;
+  border: 2px solid black;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+
+.h5{
+  color: blueviolet;
+}
